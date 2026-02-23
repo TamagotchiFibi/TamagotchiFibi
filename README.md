@@ -15,7 +15,7 @@ I'm an aspiring **Machine Learning specialist** with a solid foundation in Pytho
 - 📈 **My Goal:** To contribute to projects where I can apply my analytical skills to support **data-driven decisions**
 - 💡 **My approach:** I don't just learn, I build. Every concept I study gets applied in a small project
 
-## 🛠️ My ML Toolkit
+## My ML Toolkit
 
 | Category          | Technologies                                                                                                                                                                                                                                                                                                                                                                                       |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,24 +27,24 @@ I'm an aspiring **Machine Learning specialist** with a solid foundation in Pytho
 
 > *Stack is ordered by relevance in my daily ML workflow*
 
-## 🚀 Featured Project: My First End-to-End ML Journey
+## Featured Project: My First End-to-End ML Journey
 
 ### [🍷 Red Wine Quality Prediction](https://github.com/TamagotchiFibi/red-wine-quality-prediction)
 
 This is my first completed machine learning project, where I predicted wine quality based on physicochemical tests
 
-**🔍 What I Did:**  
+** What I Did:**  
 In this project, I conducted thorough exploratory data analysis (EDA) using **Matplotlib** and **Seaborn** to uncover feature correlations. Then I built and compared multiple classification models with **scikit-learn**, and evaluated their performance using accuracy, precision, and recall to select the best approach
 
 👉 **[Explore the Repository](https://github.com/TamagotchiFibi/red-wine-quality-prediction)** to see my code
 
-## 📈 What I'm Learning Next
+## What I'm Learning Next
 
 - Diving deeper into **Feature Engineering** to improve model accuracy
 - Exploring **Hyperparameter Tuning** techniques
 - Getting started with **basic Deep Learning** concepts
 
-## 🧩 Beyond the Code
+## Beyond the Code
 
 When I'm not working on ML, I like to challenge my brain in other ways:
 
