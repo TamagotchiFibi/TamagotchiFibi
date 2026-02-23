@@ -11,9 +11,9 @@
 
 I'm an aspiring **Machine Learning specialist** with a solid foundation in Python and data analysis. I'm focused on turning raw data into meaningful insights and building models that help solve real problems. I believe in writing clean code, communicating clearly, and learning something new every day
 
-- 🎯 **Current Focus:** Now I'm diving deep into **supervised learning algorithms** and **model evaluation techniques**
-- 📈 **My Goal:** To contribute to projects where I can apply my analytical skills to support **data-driven decisions**
-- 💡 **My approach:** I don't just learn, I build. Every concept I study gets applied in a small project
+-  **Current Focus:** Now I'm diving deep into **supervised learning algorithms** and **model evaluation techniques**
+-  **My Goal:** To contribute to projects where I can apply my analytical skills to support **data-driven decisions**
+-  **My approach:** I don't just learn, I build. Every concept I study gets applied in a small project
 
 ## My ML Toolkit
 
@@ -33,7 +33,6 @@ I'm an aspiring **Machine Learning specialist** with a solid foundation in Pytho
 
 This is my first completed machine learning project, where I predicted wine quality based on physicochemical tests
 
-** What I Did:**  
 In this project, I conducted thorough exploratory data analysis (EDA) using **Matplotlib** and **Seaborn** to uncover feature correlations. Then I built and compared multiple classification models with **scikit-learn**, and evaluated their performance using accuracy, precision, and recall to select the best approach
 
 👉 **[Explore the Repository](https://github.com/TamagotchiFibi/red-wine-quality-prediction)** to see my code
